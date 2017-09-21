@@ -32,7 +32,8 @@ On-screen instructions at the beginning of a play session. Game won't start unti
 Trial-and-error slowly improves players' skills from game to game.
 
 ## Screenshots
-![Space Steamship](https://i.scdn.co/image/0d367f0b872c1a20c92a25d4c511de7c262bbafa)
+![TitleScreen](https://raw.githubusercontent.com/SamFinston/IGME-230/master/astervoidTitle.png)
+![Mockup](https://github.com/SamFinston/IGME-230/blob/master/astervoidMockup.png?raw=true)
 
 ## Other
 The game will feature a procedurally generated twinkling-star space background.
